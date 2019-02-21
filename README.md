@@ -1,2 +1,3 @@
 # mastery-git
-Git for mastery
+
+This is a Git for Godel mastery
